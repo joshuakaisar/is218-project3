@@ -2,12 +2,12 @@
 
 [![Production Workflow](https://github.com/joshuakaisar/is218-project3/actions/workflows/prod.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/prod.yml)
 
-* [Production Deployment](https://jk259-is218-prod.herokuapp.com/)
+* [Production Deployment](https://jk259-is218-project3-prod.herokuapp.com/)
 
 
 [![Development Workflow](https://github.com/joshuakaisar/is218-project3/actions/workflows/dev.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml)
 
-* [Developmental Deployment](https://jk259-testing.herokuapp.com/)
+* [Developmental Deployment](https://jk259-is218-project3-dev.herokuapp.com/)
 
 ## Setting up CI/CD
 
